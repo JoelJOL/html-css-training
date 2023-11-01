@@ -1,0 +1,31 @@
+
+body{
+    background-color: rgb(190, 240, 255);
+}
+.firsth-container{
+    color: white;
+    text-align: center;
+
+}
+.h-container{
+    text-align: center;
+    color:red;
+
+}
+ol{
+    padding:30px;
+    background-color: rgb(255, 132, 132);
+}
+ul{
+    padding:30px;
+    background-color: rgb(106, 126, 255);
+}
+#ordered-list li {
+    background-color:  rgb(255, 220, 220);
+    border:5px solid  rgb(255, 220, 220);
+}
+
+#unordered-list  li{
+    background-color: rgb(211, 203, 255);
+    border:5px solid  rgb(106, 126, 255);
+}
